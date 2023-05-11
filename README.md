@@ -1,7 +1,7 @@
 [toc]
 # [黒壳虾官网(hihkx.com.cn)](https://hihkx.com.cn)
 # [黒壳虾定制中心(zxdz.vip)](https://www.zxdz.vip)
-## [PC端口模型预览](https://design.zxdz.vip/share?id=1655908181529858049)
+## [PC端口模型预览体验](https://design.zxdz.vip/share?id=1655908181529858049)
 * 模型预览电脑端<br>
 ![PC](./drawing/hkx/pcpreview.png)
 
