@@ -1,9 +1,22 @@
-# [黒壳虾官网](https://hihkx.com.cn)
-# [黒壳虾定制中心](https://www.zxdz.vip）
-# [黒壳虾手机端](https"//m.zxdz.vip)
-# [黒壳虾防伪系统](https://www.hihkx.cn/)
+[toc]
+
+# [黒壳虾官网(hihkx.com.cn)](https://hihkx.com.cn)
+# [黒壳虾定制中心(zxdz.vip)](https://www.zxdz.vip)
+## [PC端口模型预览](https://design.zxdz.vip/share?id=1655908181529858049)
+* 模型预览电脑端
+![PC](./drawing/hkx/pcpreview.png)
+
+# [黒壳虾定制中心手机端(m.zxdz.vip)](https//m.zxdz.vip)
+* 模型预览，手机端扫码
+![扫码预览](./drawing/hkx/preview.png)
+
+# [黒壳虾防伪系统(hihkx.cn)](https://www.hihkx.cn/)
 # 黒壳虾定制中心 微信公众号[zxdzvip]
 ![公众号](./drawing/hkx/qrcode_for_gh_31bb187566b1_344.jpg)
+
+
+
+
 
 ## 模型使用说明
 
