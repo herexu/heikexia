@@ -4,6 +4,10 @@
 
 [点击下载图纸](https://github.com/herexu/heikexia/raw/main/drawing/papercan/66x70.zip)
 
+图纸：
+
 ![图纸66x70](./66x70.png)
 
-![实物](https://github.com/herexu/heikexia/raw/main/drawing/papercan/66x70physiscal_picture.png)
+实物展示：
+
+![实物](./66x70physiscal_picture.jpg)

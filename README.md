@@ -6,4 +6,4 @@
 ### 泡袋
 
 ### 纸罐
-* [纸罐66x70](./drawing/papercan/README.md)
+* [纸罐](./drawing/papercan/README.md)
